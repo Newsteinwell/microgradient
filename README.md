@@ -1,4 +1,4 @@
-## here is a repo to reproduce the *micrograd* of Andrej Karpathy's github, which is basically the mini version of autograd in pytorch.
+## Here is a repo to reproduce the *micrograd* of Andrej Karpathy's github, which is basically the mini version of autograd in pytorch.
 
 ### some key notes:
 
